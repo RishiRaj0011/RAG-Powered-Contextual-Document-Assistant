@@ -28,7 +28,8 @@ This project solves the problem of quickly finding specific information from lar
 
 ## 📸 Screenshots
 <img width="699" height="297" alt="Screenshot 2026-04-27 140519" src="https://github.com/user-attachments/assets/5d32bb31-efaa-4b78-92ca-02e0d3e0ced1" />
-In this image as we can see we can ask any question related to the pdf we insterted in this case its about dsa so we can ask any question related to dsa i.e present in this pdf and if we ask question other than dsa then it will not answer and send a  message to ask relevant question 
+
+In this image as we can see after successfully run the project with command then in terminal a line come in terminal to ask me anything so from that part in terminal we can write any question that after computation it will answer in terminal and we can continue this Q and A section in terminal, we can ask any question related to the pdf we insterted in this case its about dsa so we can ask any question related to dsa i.e present in this pdf and if we ask question other than dsa then it will not answer and send a message to ask relevant question 
 
 
 ## ⚙️ How to Run Locally
